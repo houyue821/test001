@@ -1,4 +1,5 @@
-Git is a version control system.
+Gnit is a version control system.
 Git is free software.
 
-an i jin ru bina ji 
+an i jin ru bina jiani
+dflgoppfghkogkhj
